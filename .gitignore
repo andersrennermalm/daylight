@@ -1,0 +1,22 @@
+# Build artifacts
+.build/
+Daylight.app/
+*.xcodeproj/
+xcuserdata/
+DerivedData/
+
+# Debug files
+verify.swift
+/tmp/daylight_debug.log
+
+# macOS
+.DS_Store
+*.swp
+
+# Xcode
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.xccheckout
+*.moved-aside
